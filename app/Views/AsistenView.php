@@ -56,7 +56,7 @@
     <a class="btn btn-primary mt-1" href="/asisten/simpan">Tambah Data Asisten</a></br>
     <a class="btn btn-primary mt-1" href="/asisten/update">Edit Data Asisten</a></br>
     <a class="btn btn-primary mt-1" href="/asisten/delete">Hapus Data Asisten</a></br>
-    <a class="btn btn-primary mt-1" href="/login">Logout</a>
+    <a class="btn btn-danger mt-1" href="/login">Logout</a>
 </body>
 
 </html>
